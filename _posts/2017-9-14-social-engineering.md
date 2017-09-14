@@ -3,8 +3,6 @@ layout: post
 title: Social Engineering
 ---
 
-**Intro**
-
 Ini adalah teknik hacking (tergolong sih) yang gampang
 dipahami dan dipraktekkan, secara sederhananya social
 engineering bisa diartikan ketika kita ingin mendapat suatu
