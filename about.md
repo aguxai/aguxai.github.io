@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome,
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Halaman ini adalah blog tentang apa yang ingin saya tulis tentang hal-hal yang berhubungan dengan sains, karena saya suka sains dan ingin berbagi dengan semua orang maka saya membuat halaman sederhana ini, static tapi berbentuk blog yaitu jekyll.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aguspurwantoroartificial@aol.com](mailto:aguspurwantoroartificial@aol.com)
