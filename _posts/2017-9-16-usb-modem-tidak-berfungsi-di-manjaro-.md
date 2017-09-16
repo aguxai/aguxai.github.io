@@ -30,7 +30,7 @@ yang digunakan untuk memindah dari storage mode ke dalam networkcard mode, softw
 
 **Panduan Instalasi**
 
-Sama halnya package manager, seperti fedora berbasis .rpm. debian dan ubuntu berbasis .deb, arch linux mempunyai AUR yang berbasis
+Sama halnya package manager, seperti fedora berbasis .rpm. debian dan ubuntu berbasis .deb, arch linux mempunyai package yang berbasis
 tar.xz, panduan yang saya bahas di paper ini adalah panduan yang mudah bukan panduan yang sulit yang dimana kita harus mengcompile
 source dan menginstallnya, tapi wajib memiliki dependencies, oh tar.xz ini juga membutuhkan dependencies untuk bisa melakukan
 instalasi, maka kita harus membutuhkan dependencies dulu sebelum mengeksekusi software tersebut.
@@ -38,14 +38,16 @@ instalasi, maka kita harus membutuhkan dependencies dulu sebelum mengeksekusi so
 1. Hal pertama, kita membutuhkan dependencies dari usb_modeswitch yang bernama tcl.
 
 x86_64 : https://www.archlinux.org/packages/extra/x86_64/tcl/
+
 i686 : https://www.archlinux.org/packages/extra/i686/tcl/
 
 2. Setelah dependencies berhasil di install maka kita bisa menginstal usb_modeswitch.
 
 x86_86 : https://www.archlinux.org/packages/community/x86_64/usb_modeswitch/
+
 i686 : https://www.archlinux.org/packages/community/i686/usb_modeswitch/
 
-3. Selesai
+3. Selesai.
 
 **Penutup**
 
@@ -56,5 +58,5 @@ x86_64 adalah 64 bit.
 **Sumber**
 
 [Manjaro Packages](hhttps://www.archlinux.org/packages/)
-[usb_modeswitch official website](http://www.draisberghof.de/usb_modeswitch
+[usb_modeswitch official website](http://www.draisberghof.de/usb_modeswitch)
 [Arch Linux Wiki](https://wiki.archlinux.org/index.php/USB_3G_Modem)
