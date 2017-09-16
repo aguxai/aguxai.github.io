@@ -36,11 +36,11 @@ source dan menginstallnya, tapi wajib memiliki dependencies, oh tar.xz ini juga 
 instalasi, maka kita harus membutuhkan dependencies dulu sebelum mengeksekusi software tersebut.
 
 1. Hal pertama, kita membutuhkan dependencies dari usb_modeswitch yang bernama tcl.
-* x86_64 : [Tcl Programming Language x86_64](https://www.archlinux.org/packages/extra/x86_64/tcl/)
-* i686 : [Tcl Programming Language i686](https://www.archlinux.org/packages/extra/i686/tcl/)
+..* x86_64 : [Tcl Programming Language x86_64](https://www.archlinux.org/packages/extra/x86_64/tcl/)
+..* i686 : [Tcl Programming Language i686](https://www.archlinux.org/packages/extra/i686/tcl/)
 2. Setelah dependencies berhasil di install maka kita bisa menginstal usb_modeswitch.
-* x86_86 : [usb_modeswitch x86_64](https://www.archlinux.org/packages/community/x86_64)
-* i686 : [usb_modeswitch i686](https://www.archlinux.org/packages/community/i686/usb_modeswitch/)
+..* x86_86 : [usb_modeswitch x86_64](https://www.archlinux.org/packages/community/x86_64)
+..* i686 : [usb_modeswitch i686](https://www.archlinux.org/packages/community/i686/usb_modeswitch/)
 3. Selesai.
 
 **Penutup**
