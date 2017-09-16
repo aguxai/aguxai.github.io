@@ -57,6 +57,6 @@ x86_64 adalah 64 bit.
 
 **Sumber**
 
-[Manjaro Packages](hhttps://www.archlinux.org/packages/)
+[Manjaro Packages](https://www.archlinux.org/packages/)
 [usb_modeswitch official website](http://www.draisberghof.de/usb_modeswitch)
 [Arch Linux Wiki](https://wiki.archlinux.org/index.php/USB_3G_Modem)
