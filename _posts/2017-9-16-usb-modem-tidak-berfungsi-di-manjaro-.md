@@ -7,6 +7,8 @@ Manjaro tergolong distro yang 'fastest growing' yang dimana distro linux ini ber
 namun distro ini menurut saya masih meninggalkan fitur yang menurut saya sangat penting untuk ditindak lanjuti dan dimasukkan
 ke dalam update selanjutnya yaitu usb_modeswitch.
 
+![lsusb usb_modeswitch](https://raw.githubusercontent.com/aguxai/aguxai.github.io/ce847fef5a38647b315b49322ae38e9a96984b85/_posts/images/Screenshot_2017-09-16_22-58-47.png)
+
 Secara default, usb_modeswitch sudah terinclude ke dalam beberapa distro linux populer lainnya seperti halnya Ubuntu, Fedora, Debian,
 dan lainnya, saya tidak akan menjelaskan spesifik tapi dari point yang dituju biar lebih efisien.
 
@@ -54,4 +56,5 @@ x86_64 adalah 64 bit.
 **Sumber**
 
 [Manjaro Packages](hhttps://www.archlinux.org/packages/)
-[usb_modeswitch official website](http://www.draisberghof.de/usb_modeswitch/)
+[usb_modeswitch official website](http://www.draisberghof.de/usb_modeswitch
+[Arch Linux Wiki](https://wiki.archlinux.org/index.php/USB_3G_Modem)
