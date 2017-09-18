@@ -7,6 +7,10 @@ Please dude, if you're a new player dont be a frustate about the gameplay, since
 about role and item, you will be insulted by your teammates at game, because you're a feeder, trust me if you didnt know about basic,
 role, and item you will be a feeder and got many reported and you'll be in low priority matchmaking.
 
+![Dota 2](https://www.killping.com/blog/wp-content/uploads/2015/05/20141223121131a0dz4ak3w8am33jp.jpg)
+
+Image source : https://www.killping.com
+
 Since you're a new player, i suggest that you can spend your time to learn dota 2 by articles published by purge r if you curious about the gameplay you can practice with bot, by clicked at Learn on dota 2 board at your game. Sure, your skill
 will be upgraded by got practice, practice, and practice. At this paper i will teach you about basic and become a good player and
 got commended, doesn't matter if you're a newcoming player, if you play good the team will commended you.
